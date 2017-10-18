@@ -19,9 +19,9 @@ dependencies {
 	compile 'wallfly.android:nestedrecyclerview:1.0'
 }
 ```
-Step 3. Add TagsEditText to your layout file
+Step 3. Add NestedRecyclerView to your layout file
 ```xml
-<NestedRecyclerView
+<nestedrecyclerview.wallfly.com.nestedrecyclerview.NestedRecyclerView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 ```  
